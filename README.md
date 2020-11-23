@@ -28,9 +28,11 @@
       
       Movie_df
       https://github.com/ttan0408/Movies-ETL/blob/main/Movie_DF.PNG
+      
       Movie_df columns checking 
+      https://github.com/ttan0408/Movies-ETL/blob/main/Movie_DF_Column.PNG
       
-      
+      And the ETL_clean_wiki_movie jupyter code is shown below :
     
     3 Extract and Transform the Kaggle data
     4 Create the Movie Database
