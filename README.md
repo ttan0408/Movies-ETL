@@ -63,7 +63,7 @@
      
      ratings querry
      
-     
+     https://github.com/ttan0408/Movies-ETL/blob/main/Resources/ratings_query.PNG
      
      jupyter code for creating database
      
