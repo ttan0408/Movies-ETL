@@ -33,6 +33,19 @@
       https://github.com/ttan0408/Movies-ETL/blob/main/Movie_DF_Column.PNG
       
       And the ETL_clean_wiki_movie jupyter code is shown below :
+      https://github.com/ttan0408/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb
+      
     
     3 Extract and Transform the Kaggle data
+      We have done ETL for JSON wiki movie data, now we have to do similar steps for Kaggle data and merge them toghether with movie_df. After finished the code and run here       are the results for wiki_movie_df, movies_with_ratings_df, and movies_df
+      
+      wiki_movie_df
+      
+      movies_with_ratings_df
+      
+      movies_df
+      
+      
+      
+    
     4 Create the Movie Database
