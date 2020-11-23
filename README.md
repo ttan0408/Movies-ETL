@@ -18,8 +18,16 @@
       
       All the code is located at : 
       
-      
+      https://github.com/ttan0408/Movies-ETL/blob/main/ETL_function_test.ipynb
       
     2 Extract and Transform the Wikipedia Data
+    
+      After finished creating fucntion that allow to read three data files, we do the refactoring to the code. Using our knowledge of Python, Pandas, the ETL process, and           code refactoring, extract and transform the Wikipedia data so we can merge it with the Kaggle metadata.
+      
+      After refactoring, cleaning data for box office, budget, release date, and running time we create movie_df and displayed it as below :
+      
+      
+      
+    
     3 Extract and Transform the Kaggle data
     4 Create the Movie Database
