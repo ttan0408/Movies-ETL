@@ -67,4 +67,4 @@
      
      jupyter code for creating database
      
-     
+     https://github.com/ttan0408/Movies-ETL/blob/main/ETL_create_database.ipynb
