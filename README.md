@@ -26,6 +26,9 @@
       
       After refactoring, cleaning data for box office, budget, release date, and running time we create movie_df and displayed it as below :
       
+      Movie_df
+      https://github.com/ttan0408/Movies-ETL/blob/main/Movie_DF.PNG
+      Movie_df columns checking 
       
       
     
