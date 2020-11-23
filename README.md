@@ -14,6 +14,9 @@
       
       The MovieLens ratings data file was able to convert to a Pandas DataFrame, and the DataFrame is displayed :
       
+      https://github.com/ttan0408/Movies-ETL/blob/main/The_MovieLens_ratings_data_file.PNG
+      
+      All the code is located at : 
       
       
       
