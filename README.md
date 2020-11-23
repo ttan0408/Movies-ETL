@@ -54,3 +54,13 @@
       
     
     4 Create the Movie Database
+    
+     Finally, after create clean data. we upload it to SQL database the results querries are :
+     
+     movie querry
+     
+     ratings querry
+     
+     jupyter code for creating database
+     
+     
