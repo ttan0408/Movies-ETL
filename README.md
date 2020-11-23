@@ -41,7 +41,11 @@
       
       wiki_movie_df
       
+      https://github.com/ttan0408/Movies-ETL/blob/main/wiki_movies_df.PNG
+      
       movies_with_ratings_df
+      
+      
       
       movies_df
       
