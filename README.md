@@ -45,6 +45,7 @@
       
       movies_with_ratings_df
       
+      https://github.com/ttan0408/Movies-ETL/blob/main/movies_with_ratings_df.PNG
       
       
       movies_df
