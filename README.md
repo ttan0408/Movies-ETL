@@ -10,6 +10,10 @@
       
       The Kaggle metadata file was able to convert to a Pandas DataFrame, and the DataFrame is displayed  below :
       
+      https://github.com/ttan0408/Movies-ETL/blob/main/Kaggle_metadata_file.PNG
+      
+      The MovieLens ratings data file was able to convert to a Pandas DataFrame, and the DataFrame is displayed :
+      
       
       
       
