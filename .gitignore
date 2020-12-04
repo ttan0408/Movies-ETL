@@ -1,5 +1,5 @@
 #Adding .csv files
-ratings.csv
+#ratings.csv
 movies_metadata.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
